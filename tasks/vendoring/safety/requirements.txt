@@ -1,6 +1,6 @@
 pipenv==2018.11.26
 packaging==20.3
-safety==1.8.7
+safety==1.10.3
 pyyaml==5.3.1
 virtualenv==20.0.18
 requests==2.23.0
