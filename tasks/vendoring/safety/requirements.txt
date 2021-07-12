@@ -22,7 +22,7 @@ configparser==4.0.2
 importlib-metadata==1.6.0
 typing==3.7.4.1
 pathlib2==2.3.5
-importlib-resources==1.4.0
+importlib-resources==5.2.0
 zipp==1.2.0
 contextlib2==0.6.0.post1
 enum34==1.1.10
