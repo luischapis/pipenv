@@ -9,7 +9,7 @@ idna==2.7
 imagesize==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
-pbr==5.1.1
+pbr==5.6.0
 -e .
 Pygments==2.3.0
 pythonz-bd==1.11.4
